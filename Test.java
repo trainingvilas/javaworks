@@ -1,0 +1,8 @@
+
+public class Test {
+public static void main(String[] args) {
+	System.out.println("testing");
+	System.out.println("welcome");
+	System.out.println("om");
+}
+}
